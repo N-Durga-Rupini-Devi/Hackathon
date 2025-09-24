@@ -10,5 +10,7 @@ elif op == '*':
     print(n * m)
 elif op == '/':
     print(n / m)
+elif op == "%":
+    print(n % m)
 else:
     print('Invalid operator')
